@@ -1,8 +1,11 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="DeAI Banner" width="100%">
+</p>
+
 # 🌐 Decentralized AI & Web3 Convergence Stack
 
 A curated repository of high-impact resources at the intersection of **Artificial Intelligence** and **Blockchain Technology**. This collection focuses on data sovereignty, decentralized infrastructure (DeAI), and Autonomous Agents.
 
-![Banner](banner.jpg) 
 
 ---
 
